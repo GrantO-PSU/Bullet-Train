@@ -1,5 +1,5 @@
 Game Loop:
-The game starts on a Wednesday and lasts a whole week everyday you are given new events that happen on the train progressing the story and giving you info for the final Wednesday night
+The game starts on a Wednesday and lasts 5 days everyday you are given new events that happen on the train progressing the story and giving you info for the final night. You are also given moments to explore and find clues on your own.
 
 Game Mechanics:
 The game is about coming to your own conclusion on what happened to the victim and guessing at the end to see if you get it right.
